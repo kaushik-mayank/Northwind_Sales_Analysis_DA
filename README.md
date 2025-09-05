@@ -51,7 +51,8 @@ Northwind wants to understand:
 
 ##  Dashboard Preview
 ###  Sample Page
-https://github.com/kaushik-mayank/Northwind_Sales_Analysis_DA/blob/9713cbc34dac22277b8d047dde993778f74373c3/Northwind%20Dashboard%20Sample%20image.png
+![Northwind Dashboard](https://raw.githubusercontent.com/kaushik-mayank/Northwind_Sales_Analysis_DA/9713cbc34dac22277b8d047dde993778f74373c3/Northwind%20Dashboard%20Sample%20image.png)
+
 
 **Highlights:**
 - Peak Sales of **$129K** in **May 1996**, mainly driven by Beverages  
