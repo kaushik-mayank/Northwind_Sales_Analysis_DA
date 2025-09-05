@@ -1,0 +1,2 @@
+ROUND(Avg(c.ordersbycust))
+9

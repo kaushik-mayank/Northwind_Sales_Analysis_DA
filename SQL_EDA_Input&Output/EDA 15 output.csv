@@ -1,0 +1,46 @@
+Region,CategoryName,SupplierCount,AvgPrice,MinPrice,MaxPrice
+Australia,Beverages,1,15.00,15.00,15.00
+Australia,Condiments,1,43.90,43.90,43.90
+Australia,Confections,1,17.45,17.45,17.45
+Australia,Grains/Cereals,1,7.00,7.00,7.00
+Australia,Meat/Poultry,2,35.90,32.80,39.00
+Australia,Produce,1,53.00,53.00,53.00
+Australia,Seafood,1,62.50,62.50,62.50
+Brazil,Beverages,1,4.50,4.50,4.50
+Canada,Condiments,1,28.50,28.50,28.50
+Canada,Confections,1,49.30,49.30,49.30
+Canada,Meat/Poultry,1,15.73,7.45,24.00
+Denmark,Seafood,1,10.75,9.50,12.00
+Finland,Beverages,1,18.00,18.00,18.00
+Finland,Confections,1,18.13,16.25,20.00
+France,Beverages,1,140.75,18.00,263.50
+France,"Dairy Products",1,44.50,34.00,55.00
+France,Seafood,1,13.25,13.25,13.25
+Germany,Beverages,1,7.75,7.75,7.75
+Germany,Condiments,1,13.00,13.00,13.00
+Germany,Confections,1,29.71,14.00,43.90
+Germany,Grains/Cereals,1,33.25,33.25,33.25
+Germany,Meat/Poultry,1,123.79,123.79,123.79
+Germany,Produce,1,45.60,45.60,45.60
+Germany,Seafood,1,25.89,25.89,25.89
+Italy,"Dairy Products",1,26.43,12.50,34.80
+Italy,Grains/Cereals,1,28.75,19.50,38.00
+Japan,Condiments,1,15.50,15.50,15.50
+Japan,Meat/Poultry,1,97.00,97.00,97.00
+Japan,Produce,2,16.63,10.00,23.25
+Japan,Seafood,2,18.50,6.00,31.00
+Netherlands,Confections,1,11.13,9.50,12.75
+Norway,"Dairy Products",1,20.00,2.50,36.00
+Singapore,Beverages,1,46.00,46.00,46.00
+Singapore,Condiments,1,19.45,19.45,19.45
+Singapore,Grains/Cereals,1,14.00,14.00,14.00
+Spain,"Dairy Products",1,29.50,21.00,38.00
+Sweden,Seafood,1,20.00,15.00,26.00
+"Sweden ",Grains/Cereals,1,15.00,9.00,21.00
+UK,Beverages,1,18.50,18.00,19.00
+UK,Condiments,1,10.00,10.00,10.00
+UK,Confections,1,28.18,9.20,81.00
+USA,Beverages,1,15.33,14.00,18.00
+USA,Condiments,2,24.40,17.00,40.00
+USA,Produce,1,30.00,30.00,30.00
+USA,Seafood,1,14.03,9.65,18.40
